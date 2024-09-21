@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MecisDOS on C#/1.0.0": {
+        "runtime": {
+          "MecisDOS on C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MecisDOS on C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

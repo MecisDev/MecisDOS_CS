@@ -1,0 +1,14 @@
+C:\Users\artat\source\repos\MecisDOS on C#\MecisDOS on C#\obj\Debug\net8.0\MecisDOS on C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artat\source\repos\MecisDOS on C#\MecisDOS on C#\obj\Debug\net8.0\MecisDOS on C#.AssemblyInfoInputs.cache
+C:\Users\artat\source\repos\MecisDOS on C#\MecisDOS on C#\obj\Debug\net8.0\MecisDOS on C#.AssemblyInfo.cs
+C:\Users\artat\source\repos\MecisDOS on C#\MecisDOS on C#\obj\Debug\net8.0\MecisDOS on C#.csproj.CoreCompileInputs.cache
+C:\Users\artat\source\repos\MecisDOS on C#\MecisDOS on C#\bin\Debug\net8.0\MecisDOS on C#.exe
+C:\Users\artat\source\repos\MecisDOS on C#\MecisDOS on C#\bin\Debug\net8.0\MecisDOS on C#.deps.json
+C:\Users\artat\source\repos\MecisDOS on C#\MecisDOS on C#\bin\Debug\net8.0\MecisDOS on C#.runtimeconfig.json
+C:\Users\artat\source\repos\MecisDOS on C#\MecisDOS on C#\bin\Debug\net8.0\MecisDOS on C#.dll
+C:\Users\artat\source\repos\MecisDOS on C#\MecisDOS on C#\bin\Debug\net8.0\MecisDOS on C#.pdb
+C:\Users\artat\source\repos\MecisDOS on C#\MecisDOS on C#\obj\Debug\net8.0\MecisDOS on C#.dll
+C:\Users\artat\source\repos\MecisDOS on C#\MecisDOS on C#\obj\Debug\net8.0\refint\MecisDOS on C#.dll
+C:\Users\artat\source\repos\MecisDOS on C#\MecisDOS on C#\obj\Debug\net8.0\MecisDOS on C#.pdb
+C:\Users\artat\source\repos\MecisDOS on C#\MecisDOS on C#\obj\Debug\net8.0\MecisDOS on C#.genruntimeconfig.cache
+C:\Users\artat\source\repos\MecisDOS on C#\MecisDOS on C#\obj\Debug\net8.0\ref\MecisDOS on C#.dll
